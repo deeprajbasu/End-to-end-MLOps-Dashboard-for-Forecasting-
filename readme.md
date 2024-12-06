@@ -3,7 +3,9 @@
 Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, and forecasting retail sales data! This app uses a full-fledged MLOps pipeline to transform raw data into powerful insights. Here’s a quick guide to help you get started and have some fun along the way.
 🎉 Features
 📊 Data Ingestion
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0WkfnC-rybQ&t/0.jpg)](https://www.youtube.com/watch?v=0WkfnC-rybQ&t=9s)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0WkfnC-rybQ&t/0.jpg)](https://www.youtube.com/watch?v=0WkfnC-rybQ&t)
 
 
 
