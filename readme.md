@@ -30,7 +30,7 @@ Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, an
     Optuna-Powered Model Tuning: Select the products and train models with optimized parameters.
     Parallel Processing: Let the app handle multiple families at once — more results, less waiting!
     Model Selection: Pick your products and train models for custom forecasts.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gIfIw6VssLs&t/0.jpg)](https://www.youtube.com/watch?v=gIfIw6VssLs&t)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gIfIw6VssLs/0.jpg)](https://www.youtube.com/watch?v=gIfIw6VssLs)
 💻 How to Run the Dashboard
 
     Clone the Repo: Grab the code by cloning this repository:
