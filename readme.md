@@ -5,6 +5,7 @@ Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, an
 📊 Data Ingestion
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0WkfnC-rybQ/0.jpg)](https://www.youtube.com/watch?v=0WkfnC-rybQ)
+
 (https://www.youtube.com/watch?v=0WkfnC-rybQ)
 
 
@@ -26,12 +27,16 @@ Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, an
     Seasonality & Trend Analysis: Dive into the cyclical patterns for enhanced decision-making.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X2zm5mPLsW8/0.jpg)](https://www.youtube.com/watch?v=X2zm5mPLsW8)
 
+(https://www.youtube.com/watch?v=X2zm5mPLsW8)
+
 🏋️ Model Training
 
     Optuna-Powered Model Tuning: Select the products and train models with optimized parameters.
     Parallel Processing: Let the app handle multiple families at once — more results, less waiting!
     Model Selection: Pick your products and train models for custom forecasts.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gIfIw6VssLs/0.jpg)](https://www.youtube.com/watch?v=gIfIw6VssLs)
+
+(https://www.youtube.com/watch?v=gIfIw6VssLs)
 
 
 💻 How to Run the Dashboard
