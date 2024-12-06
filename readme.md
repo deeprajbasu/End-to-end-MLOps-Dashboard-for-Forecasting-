@@ -1,4 +1,4 @@
-🛠️ MLOps Dashboard :Forecasting |ensemble model viz| Backtest | hyperparameter optimization at at scale| 🚀
+🛠️ MLOps Dashboard : Forecasting | Ensemble model viz | Backtest | Hyperparameter optimization at at scale| 🚀
 
 Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, and forecasting retail sales data! This app uses a full-fledged MLOps pipeline to transform raw data into powerful insights. Here’s a quick guide to help you get started and have some fun along the way.
 🎉 Features
