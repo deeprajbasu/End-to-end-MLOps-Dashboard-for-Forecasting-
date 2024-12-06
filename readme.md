@@ -4,7 +4,7 @@ Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, an
 🎉 Features
 📊 Data Ingestion
 
-
+demo:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0WkfnC-rybQ/0.jpg)](https://www.youtube.com/watch?v=0WkfnC-rybQ)
 
 
@@ -18,18 +18,19 @@ Welcome to the MLOps Dashboard, a one-stop solution for exploring, analyzing, an
     Product Sales Trends: Spot the rising stars and the slumping products across multiple family groups.
     Moving Averages: Smooth out the sales data to highlight trends!
     Oil Price Overlay: See the impact of oil prices on retail sales (for the economic geeks!).
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0WkfnC-rybQ/0.jpg)](https://www.youtube.com/watch?v=0WkfnC-rybQ)
 
 🔍 Data Analysis
 
     Distribution Overlays: Compare sales distributions of different products.
     Seasonality & Trend Analysis: Dive into the cyclical patterns for enhanced decision-making.
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X2zm5mPLsW8/0.jpg)](https://www.youtube.com/watch?v=X2zm5mPLsW8)
 🏋️ Model Training
 
     Optuna-Powered Model Tuning: Select the products and train models with optimized parameters.
     Parallel Processing: Let the app handle multiple families at once — more results, less waiting!
     Model Selection: Pick your products and train models for custom forecasts.
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gIfIw6VssLs&t/0.jpg)](https://www.youtube.com/watch?v=gIfIw6VssLs&t)
 💻 How to Run the Dashboard
 
     Clone the Repo: Grab the code by cloning this repository:
