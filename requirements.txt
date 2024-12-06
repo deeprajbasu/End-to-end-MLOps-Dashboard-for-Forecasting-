@@ -1,0 +1,12 @@
+darts
+flask_appbuilder
+numpy
+optuna
+pandas
+plotly
+scipy
+statsmodels
+streamlit
+prophet
+psycopg2-binary
+optuna-dashboard
